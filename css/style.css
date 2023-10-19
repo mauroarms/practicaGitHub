@@ -1,5 +1,7 @@
 h1{
-    background-color: brown;
+    background-color: rgb(255, 0, 0);
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
 }
 ol{
     color: darkmagenta;
